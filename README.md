@@ -1,25 +1,23 @@
-- 👋 Hi, I’m @Arthur-Colman-Dev
-  - Working at Lawgile Tech Company as a Full Stack developer;
-  - Studying computer engineering college at UFRJ;
-  - 21 years old;
+# 👋 Hi, I’m @Arthur-Colman-Dev
+  - Working as a Full Stack Developer;
+  - Passionate by elegant solutions;
   
-- 👀 I’m interested in ...
+# 👀 I’m interested in ...
   - AWS (Amazon Web Services);
-  - PSQL;
   - GraphQL;
   - Postgraphile;
   - React;
-  - React-Redux;
-  - JS (JavaScript ES6);
-  - HTML/CSS;
+  - Redux;
+  - Redux Saga
+  - Typescript;
+  - Docker;
+  - Jest;
+  - Puppeteer;
   - MJML (Responsive email development);
-  
-- 🌱 I’m currently learning ...
-  - Developing tests with Jest and Puppeteer
 
 - 💞️ I’m looking to collaborate on ...
-  - Build a portifolio;
-  - Collaborate on public projects;
+  - The start of new projects;
+  - Open source projects;
 
 - 📫 How to reach me ...
   - Phone: +55 (21) 983148412;
