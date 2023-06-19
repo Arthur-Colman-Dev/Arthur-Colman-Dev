@@ -8,7 +8,7 @@
   - Postgraphile;
   - React;
   - Redux;
-  - Redux Saga
+  - Redux Saga;
   - Typescript;
   - Docker;
   - Jest;
