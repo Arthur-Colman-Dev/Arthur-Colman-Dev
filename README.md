@@ -15,11 +15,11 @@
   - Puppeteer;
   - MJML (Responsive email development);
 
-- 💞️ I’m looking to collaborate on ...
+# 💞️ I’m looking to collaborate on ...
   - The start of new projects;
   - Open source projects;
 
-- 📫 How to reach me ...
+# 📫 How to reach me ...
   - Phone: +55 (21) 983148412;
   - Email: arthuradur@gmail.com;
 
