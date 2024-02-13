@@ -3,6 +3,7 @@
   - Passionate by elegant solutions;
   
 # 👀 I’m interested in ...
+  - NodeJS
   - AWS (Amazon Web Services);
   - GraphQL;
   - Postgraphile;
@@ -11,9 +12,6 @@
   - Redux Saga;
   - Typescript;
   - Docker;
-  - Jest;
-  - Puppeteer;
-  - MJML (Responsive email development);
 
 # 💞️ I’m looking to collaborate on ...
   - The start of new projects;
