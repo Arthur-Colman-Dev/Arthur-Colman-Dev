@@ -25,7 +25,7 @@
     alt="Arthur's GitHub stats" 
     height="180em"
   />
-  <span style="margin: 0 40px;"></span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-readme-stats-sooty-three-93.vercel.app/api/top-langs/?username=Arthur-Colman-Dev&layout=compact&theme=tokyonight&count_private=true" 
     alt="Top Languages" 
