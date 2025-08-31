@@ -36,7 +36,6 @@
 ---
 
 ## 🌟 Featured Projects
-- [**Wedding Website**](https://github.com/seu-repo) – Interactive Next.js site with custom design and animations.  
 - [**Edukan**](https://github.com/Arthur-Colman-Dev/edukan) - Application built with React, GraphQL, and Postgres for managing academic tasks in a kanban format, integrating with Google Classroom or manually created tasks.
 
 ---
